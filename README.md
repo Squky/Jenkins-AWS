@@ -15,3 +15,4 @@ sudo apt-get install jenkins
 
 testing  5testing auto merge from dev branch
 testing auto merge from dev branch
+testing auto merge from dev branch
